@@ -68,7 +68,6 @@ disabled_rules:
   - todo
   - identifier_name
   - prohibited_interface_builder
-  - switch_case_alignment
     
 function_body_length:
     warning: 50
@@ -86,3 +85,6 @@ duplicate_enum_cases:
 file_name:
     excluded:
       - ResolverNames.swift
+
+switch_case_alignment:
+    indented_cases: true
