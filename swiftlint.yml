@@ -3,7 +3,6 @@ analyzer_rules:
   - unused_import
 opt_in_rules:
   - anyobject_protocol
-  - array_init
   - closure_spacing
   - collection_alignment
   - contains_over_filter_count
