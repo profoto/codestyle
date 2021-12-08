@@ -67,6 +67,7 @@ disabled_rules:
   - todo
   - identifier_name
   - prohibited_interface_builder
+  - inclusive_language
     
 function_body_length:
     warning: 50
