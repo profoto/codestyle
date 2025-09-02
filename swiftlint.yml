@@ -2,7 +2,6 @@ analyzer_rules:
   - unused_declaration
   - unused_import
 opt_in_rules:
-  - anyobject_protocol
   - closure_spacing
   - collection_alignment
   - contains_over_filter_count
